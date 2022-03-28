@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/poojapa81111463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojapa81111463" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pooja patel" height="30" width="40" /></a>
 <a href="https://kaggle.com/pooja patel(1601)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooja patel(1601)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pooja patel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=" study easier by pooja patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
