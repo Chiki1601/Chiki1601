@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm I'm Pooja Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -9,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/poojapa81111463" target="blank"><img src="https://img.shields.io/twitter/follow/poojapa81111463?logo=twitter&style=for-the-badge" alt="poojapa81111463" /></a> </p>
 
-- 🔭 I’m currently uploading study tutorials **Youtube**
+- 🔭 I’m currently uploading study tutorials of Engineering [Youtube](https://www.youtube.com/watch?v=uW-jXXI1v1c)
 
 - 🌱 I’m currently learning **bootstrap**
+
+- 🔭 I’m currently uploading study tutorials of Physics and Maths [Youtube](https://www.youtube.com/watch?v=Y_pzOqGLZ68)
+
+- 🔭 I’m currently uploading study tutorials of English [Youtube](https://www.youtube.com/watch?v=8M2-18h9jgc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chiki1601](https://github.com/Chiki1601)
 
@@ -26,10 +28,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/poojapa81111463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojapa81111463" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poojapa81111463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojapa81111463" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooja-patel-07b1991ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-patel-07b1991ab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pooja patel" height="30" width="40" /></a>
-<a href="https://kaggle.com/pooja patel(1601)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooja patel(1601)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=" study easier by pooja patel" height="30" width="40" /></a>
+<a href="https://kaggle.com/poojapatel1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="poojapatel1601" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/study easier by pooja patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="study easier by pooja patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
