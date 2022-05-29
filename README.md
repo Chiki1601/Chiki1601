@@ -52,10 +52,19 @@
 <p><a href="https://www.buymeacoffee.com/poojapatelusa22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojapatelusa22" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiki1601&show_icons=true&locale=en&layout=compact" alt="chiki1601" /></p>
- 
 
+<!-- LeetCode Stats Card ❤️ -->
+<h2 align="center"><img src="https://github.com/Chiki1601/Chiki1601/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="[https://leetcode.com/Chiki1601](https://leetcode.com/Chiki1601/)" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=Chiki1601&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+  </a>
+</p>  
+   
+![Pooja's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiki1601&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiki1601&show_icons=true&locale=en" alt="chiki1601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiki1601&" alt="chiki1601" /></p>
    
-  <a href="https://github.com/chiki1601/github-readme-activity-graph"><img alt="Pooja Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chiki1601&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
