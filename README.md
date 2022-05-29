@@ -52,6 +52,7 @@
 <p><a href="https://www.buymeacoffee.com/poojapatelusa22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojapatelusa22" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiki1601&show_icons=true&locale=en&layout=compact" alt="chiki1601" /></p>
+ <br>
 
 <!-- LeetCode Stats Card ❤️ -->
 <h2 align="center"><img src="https://github.com/Chiki1601/Chiki1601/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
@@ -60,6 +61,9 @@
     <img width=60% src="https://leetcode.card.workers.dev/?username=Chiki1601&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
   </a>
 </p>  
+ 
+  
+
    
 ![Pooja's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiki1601&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
   
