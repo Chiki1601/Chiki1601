@@ -67,8 +67,9 @@
   
   
   
-  
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <a href="https://github.com/Chiki1601/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Chiki1601" width="400"/>
+</a>
 
   
   
