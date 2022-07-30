@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiki1601" alt="chiki1601" /></a> </p>
 
-[![PoojaPatel StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/18595226/pooja-patel)
 
 <p align="left"> <a href="https://twitter.com/poojapa81111463" target="blank"><img src="https://img.shields.io/twitter/follow/poojapa81111463?logo=twitter&style=for-the-badge" alt="poojapa81111463" /></a> </p>
 
@@ -65,7 +64,17 @@
 </p>  
  
   
+  
+  
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiki1601&layout=compact)](https://github.com/Chiki1601/github-readme-stats)
 
+  
+  
+  
+  
+  
    
 ![Pooja's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiki1601&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
   
