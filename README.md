@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiki1601&label=Profile%20views&color=0e75b6&style=flat" alt="chiki1601" /> </p>
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiki1601" alt="chiki1601" /></a> </p>
 
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 <p align="left"> <a href="https://twitter.com/poojapa81111463" target="blank"><img src="https://img.shields.io/twitter/follow/poojapa81111463?logo=twitter&style=for-the-badge" alt="poojapa81111463" /></a> </p>
 
 - 🔭 I’m currently uploading study tutorials of Engineering [Youtube](https://www.youtube.com/watch?v=uW-jXXI1v1c)
@@ -77,8 +73,6 @@
  
   
   
- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
   
   
@@ -90,5 +84,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiki1601&show_icons=true&locale=en" alt="chiki1601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiki1601&" alt="chiki1601" /></p>
- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges) 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Chiki1601" frameborder="0"></iframe>
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
 
