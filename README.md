@@ -84,6 +84,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiki1601&show_icons=true&locale=en" alt="chiki1601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiki1601&" alt="chiki1601" /></p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Chiki1601" frameborder="0"></iframe>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+ <p> 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Chiki1601" frameborder="0"></iframe></p>
+  <p>
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j31f6sjjucz4zb5o2vrcemdxhp2vq)]](https://open.spotify.com/user/31f6sjjucz4zb5o2vrcemdxhp2vq))</p>
 
