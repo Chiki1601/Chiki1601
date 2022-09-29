@@ -24,8 +24,6 @@
 
 - 💬my quotes **https://www.yourquote.in/pooja-patel-cmxfy/quotes/undefined-bq1rtb**
 
-- 📫 How to reach me **poojapatelusa22@gmail.com**
-
 - ⚡ Fun fact **I am sarcastically funny!**
 
 ### Blogs posts
