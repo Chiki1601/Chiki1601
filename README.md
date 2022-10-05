@@ -32,6 +32,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://hashnode.com/@chiki1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chiki1601" height="30" width="40" /></a>
+<a href="https://medium.com/@chiki1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiki1601" height="30" width="40" /></a>
+
 <a href="https://codepen.io/chiki1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chiki1601" height="30" width="40" /></a>
 <a href="https://dev.to/chiki1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chiki1601" height="30" width="40" /></a>
 <a href="https://twitter.com/poojapa81111463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojapa81111463" height="30" width="40" /></a>
