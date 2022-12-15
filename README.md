@@ -80,7 +80,7 @@
   
   
    
-[![Pooja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chiki16010&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/chiki1601/github-readme-activity-graph)
+[![Pooja's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chiki1601&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Chiki1601/github-readme-activity-graph)
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiki1601&show_icons=true&locale=en" alt="chiki1601" /></p>
 
