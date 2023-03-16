@@ -28,6 +28,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ My Gujarati articles collection:
+https://misspoojanilkumarpatel.blogspot.com/
+
+My English articles collection:
+https://chikkii1601.blogspot.com/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
