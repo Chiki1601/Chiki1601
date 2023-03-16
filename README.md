@@ -33,6 +33,8 @@ https://misspoojanilkumarpatel.blogspot.com/
 
 My English articles collection:
 https://chikkii1601.blogspot.com/
+  
+My Literature journey Pratilipy: https://gujarati.pratilipi.com/user/pooja-patel-y83t7180d3
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
