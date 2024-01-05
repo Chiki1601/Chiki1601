@@ -22,20 +22,11 @@
 
 - 📝 I regularly write poems and stories in [https://storymirror.com/profile/90x9skez/pooja-patel](https://storymirror.com/profile/90x9skez/pooja-patel)
 
-- 💬my quotes **https://www.yourquote.in/pooja-patel-cmxfy/quotes/undefined-bq1rtb**
-
 - ⚡ Fun fact **I am sarcastically funny!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
- My Gujarati articles collection:
-https://misspoojanilkumarpatel.blogspot.com/
+### Connect with me 
+https://bento.me/chiki1601
 
-My English articles collection:
-https://chikkii1601.blogspot.com/
-  
-My Literature journey Pratilipy: https://gujarati.pratilipi.com/user/pooja-patel-y83t7180d3
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
